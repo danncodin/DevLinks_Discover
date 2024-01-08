@@ -24,4 +24,4 @@ O Dev links é um agregador de links para usar como um cartão de visitas online
 
 ## Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeta está sob a licença MIT.
