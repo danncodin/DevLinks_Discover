@@ -1,27 +1,22 @@
 <h1 align="center">DevLinks</h1>
 
 <p align="center">
-Um site montado como um cartão de visita, incluido links de redes sociais e sites.
+A website designed like a business card, including links to social networks and websites.
 </p>
 
 <p align="center">
     <img alt="License" src=".github/preview.jpg">
 </p>
 
-## Tecnologias
+## Technologies
 
-Esse Projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
+- Git and Github
 - Figma
 
-## Projeto
+## Project
 
-O Dev links é um agregador de links para usar como um cartão de visitas online.
-
-
-## Licença
-
-Esse projeto está sob a licença MIT.
+Dev links is a link aggregator to use as an online business card.
